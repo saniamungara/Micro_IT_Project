@@ -13,7 +13,30 @@ A full-stack e-commerce application designed to manage user profiles and booking
 - **Logout:** Safely log out from your account anytime.
 
 ---
+## 📸 Project Screenshots
 
+### 🏠 Homepage
+![Homepage](screenshots/homepage.png)
+
+### 🔐 Sign In
+![Sign In](screenshots/signin.png)
+
+### 📝 Sign Up
+![Sign Up](screenshots/signup.png)
+
+### 👤 My Account
+![My Account](screenshots/myaccount.png)
+
+### 👨 Men Services
+![Men Services](screenshots/menservices.png)
+
+### 👩 Women Services
+![Women Services](screenshots/womenservices.png)
+
+### 📅 Booking Slot
+![Booking Slot](screenshots/bookingslot.png)
+
+---
 ## Project Overview
 
 The project is divided into two main parts:
