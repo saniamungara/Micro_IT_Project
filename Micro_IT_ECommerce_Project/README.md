@@ -16,25 +16,25 @@ A full-stack e-commerce application designed to manage user profiles and booking
 ## 📸 Project Screenshots
 
 ### 🏠 Homepage
-![Homepage](screenshots/homepage.png)
+![Homepage](Micro_IT_ECommerce_Project/screenshots/homepage.png)
 
 ### 🔐 Sign In
-![Sign In](screenshots/signin.png)
+![Sign In](Micro_IT_ECommerce_Project/screenshots/signin.png)
 
 ### 📝 Sign Up
-![Sign Up](screenshots/signup.png)
+![Sign Up](Micro_IT_ECommerce_Project/screenshots/signup.png)
 
 ### 👤 My Account
-![My Account](screenshots/myaccount.png)
+![My Account](Micro_IT_ECommerce_Project/screenshots/myaccount.png)
 
 ### 👨 Men Services
-![Men Services](screenshots/menservices.png)
+![Men Services](Micro_IT_ECommerce_Project/screenshots/menservices.png)
 
 ### 👩 Women Services
-![Women Services](screenshots/womenservices.png)
+![Women Services](Micro_IT_ECommerce_Project/screenshots/womenservices.png)
 
 ### 📅 Booking Slot
-![Booking Slot](screenshots/bookingslot.png)
+![Booking Slot](Micro_IT_ECommerce_Project/screenshots/bookingslot.png)
 
 ---
 ## Project Overview
